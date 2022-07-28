@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <HTML>
     <HEAD>
         <title>AUDIO FILE</title>
